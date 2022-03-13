@@ -8,7 +8,7 @@ Project: **_vteq-luna_**
 You can reach out to us over...  
 [E-Mail](mailto:mail@valkyteq.com?Subject=Github)   |    [Twitch](https://www.twitch.tv/valkyfischer)   |    [Discord](https://discord.gg/Ug2ne5K)  
 
-<br><hr><br>
+<br><br>
 
 ## LUNA Content
 ### Artificial Intelligence
@@ -27,14 +27,14 @@ You can reach out to us over...
 ### Animat3D
 - API
 
-<br><hr><br>
+<br><br>
 
 ## Requirements
 - node-js
 - [vteq-web](https://github.com/VALKYTEQ/vteq-web)
 - [vteq-animat3d](https://github.com/VALKYTEQ/vteq-animat3d)
 
-<br><hr><br>
+<br><br>
 
 ## Configuration
 ### Installation
