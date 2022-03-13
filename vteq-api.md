@@ -8,7 +8,7 @@ Project: **_vteq-api_**
 You can reach out to us over...  
 [E-Mail](mailto:mail@valkyteq.com?Subject=Github)   |    [Twitch](https://www.twitch.tv/valkyfischer)   |    [Discord](https://discord.gg/Ug2ne5K)  
 
-<br><hr><br>
+<br><br>
 
 ## API
 ### Artificial Intelligence
