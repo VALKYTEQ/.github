@@ -8,7 +8,7 @@ Project: **_vteq-web_**
 You can reach out to us over...  
 [E-Mail](mailto:mail@valkyteq.com?Subject=Github)   |    [Twitch](https://www.twitch.tv/valkyfischer)   |    [Discord](https://discord.gg/Ug2ne5K)  
 
-<br><hr><br>
+<br><br>
 
 ## CMS Content
 ### Artificial Intelligence
@@ -33,14 +33,14 @@ You can reach out to us over...
 - Animat3D Launcher
 - Animat3D Client
 
-<br><hr><br>
+<br><br>
 
 ## Requirements
 - [vteq-luna](https://github.com/VALKYTEQ/vteq-luna)
 - [vteq-animat3d](https://github.com/VALKYTEQ/vteq-animat3d)
 - [vteq-animat3d-loc](https://github.com/VALKYTEQ/vteq-animat3d-loc)
 
-<br><hr><br>
+<br><br>
 
 ## CMS Configuration
 ### Composer Setup
