@@ -34,7 +34,7 @@ You can reach out to us over...
 - [vteq-web](https://github.com/VALKYTEQ/vteq-web)
 - [vteq-animat3d](https://github.com/VALKYTEQ/vteq-animat3d)
 
-<hr style="border:2px solid darkorange">
+<br><hr><br>
 
 ## Configuration
 ### Installation
